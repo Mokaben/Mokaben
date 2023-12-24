@@ -1,5 +1,5 @@
 - 👋 Hi 😁am Benson Mokaya 
-- 📝 I’m currently learning at Power learning project 
+- 📝 I’m currently learning at Power learn project 
 -🗑️🤾 super passionate with web developing 
 
 <!---
